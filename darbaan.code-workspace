@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "darbaan"
+		},
+		{
+			"path": "darbaanftue"
+		},
+		{
+			"path": "darbaanhome"
+		},
+		{
+			"path": "darbaanlogin"
+		},
+		{
+			"path": "darbaanwidgets"
+		}
+	],
+	"settings": {
+		"editor.formatOnSave": true
+	}
+}
